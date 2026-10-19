@@ -82,6 +82,7 @@ Incremental games with strong narrative, unfolding mechanics, and a satisfying s
 ### Arcade
 
 - [HexGL](https://hexgl.bkcore.com/) - Futuristic HTML5 racing game with WebGL graphics.
+- [Pokemon Arena 2D](https://poke2darena.com/) - Fan-made real-time 2D Pokemon arena battler with gym bosses and online 1v1.
 - [Particle Clicker](https://cern.ch/particle-clicker) - Addictive incremental game that teaches particle physics.
 
 ### RPG
